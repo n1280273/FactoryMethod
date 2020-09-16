@@ -1,0 +1,4 @@
+//ConcreteProduct.class
+class ConcreteProduct extends Product{
+    
+}
